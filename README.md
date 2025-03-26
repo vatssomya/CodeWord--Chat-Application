@@ -1,4 +1,4 @@
-# CodeWord - Flutter Login & Sign Up UI
+# CodeWord 
 
 This project was completed as part of the **"RIGHT ON DART"** Flutter workshop organized by the **UPES Open Community Student Chapter**. The goal was to create a sleek, user-friendly login and sign-up interface using Flutter.
 
